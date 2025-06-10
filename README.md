@@ -28,3 +28,4 @@ In conclusion, this real-time collaborative document editor demonstrates a power
 
 **OUTPUT**    :
 
+![Image](https://github.com/user-attachments/assets/fd50ab30-fc63-4775-9713-9c5f45b9856c)
